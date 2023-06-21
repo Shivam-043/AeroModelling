@@ -39,9 +39,9 @@
 
   <ol>
     <li>Clone the repository to your local machine using the following command:</li>
-    <code>git clone https://github.com/your-username/aeromodelling-website.git</code>
+    <code>git clone https://github.com/Shivam-043/AeroModelling.git</code>
     <li>Navigate to the project directory:</li>
-    <code>cd aeromodelling-website</code>
+    <code>cd AeroModelling</code>
     <li>Install the necessary dependencies:</li>
     <code>npm install</code>
   </ol>
