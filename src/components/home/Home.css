@@ -1,0 +1,64 @@
+.homeCanvas{
+    width: 100vw;
+    height: 100vh;
+}
+
+.homeContainer{
+    background-color: #ffffff;
+    /* padding-top: 4vmax; */
+    border-radius: 0 0 200px 200px;
+    border-bottom: 200px solid white;
+    position: relative;
+    z-index: 1;
+}
+.homeContainer > h3{
+    text-align: center;
+    color: rgba(22,20,20,0.904);
+    padding: 4vmax;
+}
+
+.homeSkills{
+    transform: translateY(-200px);
+    background-color: hsl(219,48%,8%);
+    height: 1500px;
+    position: relative;
+    margin-bottom: -200px ;
+    padding: 200px;
+    box-sizing: border-box;
+    perspective: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    overflow-x: hidden;
+}
+
+.homeSkills{
+    text-align: center;
+    color: white;
+    margin-bottom: 4vmax;
+    font-size: 4vmax;
+}
+
+.person-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    max-width: 300px;
+    text-align: center;
+    z-index: -100;
+  }
+  
+  .person-card img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  
+  .person-card h2 {
+    color: #333;
+    margin-top: 10px;
+  }
+  
+  .person-card p {
+    color: #666;
+  }
