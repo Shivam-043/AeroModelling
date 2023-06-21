@@ -4,8 +4,8 @@ import * as THREE from "three";
 // import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 // import moonImage from "../../images/moon.jpg";
 // import venusImage from "../../images/venus.jpg";
-import spaceImage from "../images/space.jpg";
-import pimage from "../images/pimage.jpg";
+import spaceImage from "../../images/space.jpg";
+import pimage from "../../images/pimage.jpg";
 // import {Typography} from "@mui/material";
 // import TimeLine from "../TimeLine/TimeLine";
 
