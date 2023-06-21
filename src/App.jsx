@@ -1,7 +1,7 @@
 import "./App.css";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 // import Home from "./components/home/Home";
-import HoverPage from "./components/home/Hover";
+import HoverPage from "./Canvas/Hover";
 
 
 function App() {
