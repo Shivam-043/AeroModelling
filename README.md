@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-  <title>AeroModelling Website - NIT Kurukshetra</title>
-</head>
-
 <body>
   <h1>AeroModelling Website - NIT Kurukshetra</h1>
 
