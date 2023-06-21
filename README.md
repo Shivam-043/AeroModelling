@@ -1,66 +1,86 @@
-# AeroModelling Website - NIT Kurukshetra
-Welcome to the AeroModelling Website repository for NIT Kurukshetra! This repository contains the source code and related files for the AeroModelling website developed for the National Institute of Technology, Kurukshetra.
+<!DOCTYPE html>
+<html>
 
-Table of Contents
-Introduction
-Features
-Getting Started
-Installation
-Usage
-Contributing
-License
-Contact
-Introduction
-The AeroModelling Website is a platform designed to provide information and resources related to aero-modelling activities at NIT Kurukshetra. It serves as a central hub for students, faculty, and enthusiasts interested in aero-modelling, where they can access information about events, workshops, projects, and more.
+<head>
+  <title>AeroModelling Website - NIT Kurukshetra</title>
+</head>
 
-Features
-The AeroModelling Website offers the following features:
+<body>
+  <h1>AeroModelling Website - NIT Kurukshetra</h1>
 
-Event listings: Browse upcoming aero-modelling events and workshops organized by NIT Kurukshetra.
-Project showcase: Discover innovative aero-modelling projects undertaken by students at NIT Kurukshetra.
-Resources: Access a collection of resources including tutorials, guides, and reference materials related to aero-modelling.
-Team: Get to know the team behind the AeroModelling Club at NIT Kurukshetra and their contributions.
-Contact: Connect with the AeroModelling Club for inquiries, collaborations, or general information.
-Getting Started
-To get started with the AeroModelling Website repository, follow the instructions below:
+  <h2>Table of Contents</h2>
+  <ul>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
 
-Installation
-Clone the repository to your local machine using the following command:
+  <h2 id="introduction">Introduction</h2>
 
-shell
-Copy code
-git clone https://github.com/your-username/aeromodelling-website.git
-Navigate to the project directory:
+  <p>The AeroModelling Website is a platform designed to provide information and resources related to aero-modelling activities at NIT Kurukshetra. It serves as a central hub for students, faculty, and enthusiasts interested in aero-modelling, where they can access information about events, workshops, projects, and more.</p>
 
-shell
-Copy code
-cd aeromodelling-website
-Install the necessary dependencies:
+  <h2 id="features">Features</h2>
 
-shell
-Copy code
-npm install
-Usage
-To start the AeroModelling Website, use the following command:
+  <p>The AeroModelling Website offers the following features:</p>
 
-shell
-Copy code
-npm start
-This will launch the website on your local development server. You can access it by opening your web browser and navigating to http://localhost:3000.
+  <ul>
+    <li>Event listings: Browse upcoming aero-modelling events and workshops organized by NIT Kurukshetra.</li>
+    <li>Project showcase: Discover innovative aero-modelling projects undertaken by students at NIT Kurukshetra.</li>
+    <li>Resources: Access a collection of resources including tutorials, guides, and reference materials related to aero-modelling.</li>
+    <li>Team: Get to know the team behind the AeroModelling Club at NIT Kurukshetra and their contributions.</li>
+    <li>Contact: Connect with the AeroModelling Club for inquiries, collaborations, or general information.</li>
+  </ul>
 
-Feel free to explore the code and make any desired modifications to customize the website for your specific needs.
+  <h2 id="getting-started">Getting Started</h2>
 
-Contributing
-Contributions to the AeroModelling Website are welcome! If you encounter any bugs, have suggestions for improvements, or would like to add new features, please submit a pull request. Ensure that your code follows the existing coding style and is well-documented.
+  <p>To get started with the AeroModelling Website repository, follow the instructions below:</p>
 
-For major changes, please open an issue first to discuss your proposed modifications with the project maintainers.
+  <h2 id="installation">Installation</h2>
 
-License
-The AeroModelling Website is licensed under the MIT License.
+  <ol>
+    <li>Clone the repository to your local machine using the following command:</li>
+    <code>git clone https://github.com/your-username/aeromodelling-website.git</code>
+    <li>Navigate to the project directory:</li>
+    <code>cd aeromodelling-website</code>
+    <li>Install the necessary dependencies:</li>
+    <code>npm install</code>
+  </ol>
 
-Contact
-If you have any questions, feedback, or inquiries, please reach out to the AeroModelling Club at NIT Kurukshetra:
+  <h2 id="usage">Usage</h2>
 
-Email: aeromodellingclub@nitkkr.ac.in
-Website: https://www.nitkkr.ac.in
-Thank you for your interest in the AeroModelling Website of NIT Kurukshetra! We hope you find it informative and engaging.
+  <p>To start the AeroModelling Website, use the following command:</p>
+
+  <code>npm start</code>
+
+  <p>This will launch the website on your local development server. You can access it by opening your web browser and navigating to <code>http://localhost:3000</code>.</p>
+
+  <p>Feel free to explore the code and make any desired modifications to customize the website for your specific needs.</p>
+
+  <h2 id="contributing">Contributing</h2>
+
+  <p>Contributions to the AeroModelling Website are welcome! If you encounter any bugs, have suggestions for improvements, or would like to add new features, please submit a pull request. Ensure that your code follows the existing coding style and is well-documented.</p>
+
+  <p>For major changes, please open an issue first to discuss your proposed modifications with the project maintainers.</p>
+
+  <h2 id="license">License</h2>
+
+  <p>The AeroModelling Website is licensed under the <a href="LICENSE">MIT License</a>.</p>
+
+  <h2 id="contact">Contact</h2>
+
+  <p>If you have any questions, feedback, or inquiries, please reach out to the AeroModelling Club at NIT Kurukshetra:</p>
+
+  <ul>
+    <li>Email: <a href="mailto:aeromodellingclub@nitkkr.ac.in">aeromodellingclub@nitkkr.ac.in</a></li>
+    <li>Website: <a href="https://www.nitkkr.ac.in">https://www.nitkkr.ac.in</a></li>
+  </ul>
+
+  <p>Thank you for your interest in the AeroModelling Website of NIT Kurukshetra! We hope you find it informative and engaging.</p>
+</body>
+
+</html>
