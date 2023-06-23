@@ -11,6 +11,7 @@ Frontend/node_modules
 Frontend/dist
 Frontend/dist-ssr
 Frontend/*.local
+node_modules/
 
 # Editor directories and files
 Frontend/.vscode/*
